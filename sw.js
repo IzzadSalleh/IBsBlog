@@ -2,8 +2,8 @@ var APP_PREFIX = 'IBsBlog'     // Identifier for this app (this needs to be cons
 var VERSION = 'version_01'              // Version of the off-line cache (change this value everytime you want to update cache)
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            // Add URL you want to cache in this list.
-  '/{repository}/',                     // If you have separate JS/CSS files,
-  '/{repository}/index.html'            // add path to those files here
+  '/IBsBlog/',                     // If you have separate JS/CSS files,
+  '/IBsBlog/index.html'            // add path to those files here
 ]
 
 // Respond with cached resources
