@@ -124,6 +124,12 @@
 
   <!-- Custom scripts -->
   <script src="js/clean-blog.min.js"></script>
+  <script>
+     // register ServiceWorker, remember to use absolute path!
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('sw.js', {scope: '/IBsBlog/'})
+  }
+  </script>
 
 </body>
 
