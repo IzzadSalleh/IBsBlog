@@ -20,10 +20,6 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/IBsBlog/img/oxara.png',
   '/IBsBlog/img/skoga.png',
   '/IBsBlog/img/icons',
-  '/IBsBlog/',
-  '/IBsBlog/',
-  '/IBsBlog/',
-  '/IBsBlog/',
             // add path to those files here
 ]
 
