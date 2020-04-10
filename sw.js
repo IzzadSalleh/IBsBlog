@@ -3,7 +3,27 @@ var VERSION = 'version_01'              // Version of the off-line cache (change
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            // Add URL you want to cache in this list.
   '/IBsBlog/',                     // If you have separate JS/CSS files,
-  '/IBsBlog/index.html'            // add path to those files here
+  '/IBsBlog/index.html',
+  '/IBsBlog/post.html',
+  '/IBsBlog/about.html',
+  '/IBsBlog/vendor/bootstrap/css/bootstrap.min.css',
+  '/IBsBlog/vendor/fontawesome-free/css/all.min.css',
+  '/IBsBlog/https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic',
+  '/IBsBlog/https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800',
+  '/IBsBlog/css/clean-blog.min.css',
+  '/IBsBlog/vendor/bootstrap/js/bootstrap.bundle.min.js',
+  '/IBsBlog/js/clean-blog.min.js',
+  '/IBsBlog/img/home-bg.png',
+  '/IBsBlog/img/post-bg.png',
+  '/IBsBlog/img/about-bg.png',
+  '/IBsBlog/img/hvita.png',
+  '/IBsBlog/img/oxara.png',
+  '/IBsBlog/img/skoga.png',
+  '/IBsBlog/',
+  '/IBsBlog/',
+  '/IBsBlog/',
+  '/IBsBlog/',
+            // add path to those files here
 ]
 
 // Respond with cached resources
