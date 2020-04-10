@@ -1,7 +1,7 @@
 {
     "name": "Izzad Bazil Blog",
     "short_name": "IB Blog",
-    "start_url": ".",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fff",
     "description":"A blog that is created by Izzad and Bazil",
