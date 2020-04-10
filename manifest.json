@@ -3,7 +3,7 @@
   "short_name": "Ibsblog",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "browser",
+  "display": "fullscreen",
   "Scope": "/IBsBlog/",
   "start_url": "/IBsBlog/index.html",
   "icons": [
