@@ -4,7 +4,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "browser",
-  "Scope": "https://izzadsalleh.github.io/IBsBlog/",
+  "Scope": "/",
   "start_url": "index.html",
   "icons": [
     {
