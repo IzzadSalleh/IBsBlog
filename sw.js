@@ -11,7 +11,6 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/IBsBlog/css/clean-blog.min.css',
   '/IBsBlog/vendor/bootstrap/js/bootstrap.bundle.min.js',
   '/IBsBlog/js/clean-blog.min.js',
-  '/IBsBlog/img/icons'
 
             // add path to those files here
 ]
