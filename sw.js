@@ -19,6 +19,7 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/IBsBlog/img/hvita.png',
   '/IBsBlog/img/oxara.png',
   '/IBsBlog/img/skoga.png',
+  '/IBsBlog/img/icons',
   '/IBsBlog/',
   '/IBsBlog/',
   '/IBsBlog/',
